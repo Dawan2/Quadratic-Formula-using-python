@@ -1,5 +1,15 @@
 # Quadratic Equation Solver and Educator 🚀
 
+<p></p>
+
+<div align="center">
+  <img src="https://github.com/Dawan2/Quadratic-Formula-using-python/assets/146447975/e45e6c37-039e-49e8-a2e5-77f6fd4ab776" alt="Image 1" width="200"/>
+  <img src="https://github.com/Dawan2/Quadratic-Formula-using-python/assets/146447975/eb7a6258-2d20-473c-9af5-94a4d45b8666" alt="Image 2" width="200"/>
+  <img src="https://github.com/Dawan2/Quadratic-Formula-using-python/assets/146447975/2108e3c3-8db8-459f-8921-a7852d38c6c7" alt="Image 3" width="200"/>
+</div>
+
+<p></p>
+
 Welcome to the Quadratic Equation Solver and Educator! This Python application provides an elegant graphical interface for effortlessly solving quadratic equations and delving into the intricacies of the quadratic formula. Whether you're seeking to find the roots of a quadratic equation or enhance your understanding of the underlying mathematical principles, this application has got you covered.
 
 ## Features ✨
